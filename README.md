@@ -1,6 +1,6 @@
 Team name: Terk
 CS 3354.001 Project
-Team Member: Alejandro Amaya Giron; Churong Zhang ; Xizhen Yang; Kaitian Li; Jisoo Kim; Kota Naga Tejaswi LNU; Frank Cazarez
+Team Member: Alejandro Amaya Giron; Churong Zhang ; Xizhen Yang; Kaitian Li; Jisoo Kim; Kent G; Frank Cazarez
 
 Introduction
 Planning a trip can be straining and requires a lot of research and information about the locations. 
