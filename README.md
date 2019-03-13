@@ -1,5 +1,7 @@
-Team name: Terk
+Team name: Trek
+
 CS 3354.001 Project
+
 Team Member: Alejandro Amaya Giron; Churong Zhang ; Xizhen Yang; Kaitian Li; Jisoo Kim; Kent G; Frank Cazarez
 
 Introduction
